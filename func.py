@@ -2,4 +2,4 @@ from typing import Any
 
 def main(req: Any):
     # Your function implementation goes here
-    return "Hello Dell!"
+    return "Hello Hilltop!"
